@@ -1,0 +1,33 @@
+2022-09-21 14:51:48,378 - INFO - infer - Inferring on model: ./weights\yolov5s.pt Input type image
+2022-09-21 14:51:49,171 - ERROR - infer - Inference on model: ./weights\yolov5s.pt Input type image failed
+2022-09-21 14:51:49,171 - ERROR - infer - [Errno 2] No such file or directory: 'weights\\yolov5s.pt'
+2022-09-21 14:53:14,783 - INFO - infer - Inferring on model: ./weights\yolov5s.pt Input type image
+2022-09-21 14:53:15,270 - ERROR - infer - Inference on model: ./weights\yolov5s.pt Input type image failed
+2022-09-21 14:53:15,272 - ERROR - infer - [Errno 2] No such file or directory: 'weights\\yolov5s.pt'
+2022-09-21 15:04:42,994 - INFO - infer - Inferring on model: ./weights\yolov5s.pt Input type image
+2022-09-21 15:04:43,460 - ERROR - infer - Inference on model: ./weights\yolov5s.pt Input type image failed
+2022-09-21 15:04:43,461 - ERROR - infer - [Errno 2] No such file or directory: 'weights\\yolov5s.pt'
+2022-09-21 15:08:48,089 - INFO - infer - Inferring on model: weights/yolov5s.pt Input type image
+2022-09-21 15:08:48,089 - INFO - infer - Inferring on model: weights/yolov5s.pt Input type image
+2022-09-21 15:08:51,243 - INFO - infer - Inference on model: weights/yolov5s.pt Input type image completed
+2022-09-21 15:08:51,243 - INFO - infer - Inference on model: weights/yolov5s.pt Input type image completed
+2022-09-21 15:09:04,465 - INFO - infer - Inferring on model: weights/yolov5s.pt Input type image
+2022-09-21 15:09:04,465 - INFO - infer - Inferring on model: weights/yolov5s.pt Input type image
+2022-09-21 15:09:05,501 - INFO - infer - Inference on model: weights/yolov5s.pt Input type image completed
+2022-09-21 15:09:05,501 - INFO - infer - Inference on model: weights/yolov5s.pt Input type image completed
+2022-09-21 15:33:45,292 - INFO - infer - Inferring on model: weights/yolov5s.pt Input type image
+2022-09-21 15:33:49,251 - INFO - infer - Inference on model: weights/yolov5s.pt Input type image completed
+2022-09-21 15:37:13,330 - INFO - infer - Inferring on model: weights/yolov5s.pt Input type image
+2022-09-21 15:37:16,779 - INFO - infer - Inference on model: weights/yolov5s.pt Input type image completed
+2022-09-21 19:39:33,499 - INFO - infer - Inferring on model: weights/yolov5s.pt Input type image
+2022-09-21 19:39:34,427 - INFO - infer - Inference on model: weights/yolov5s.pt Input type image completed
+2022-09-21 19:39:49,217 - INFO - infer - Inferring on model: weights/yolov5s.pt Input type image
+2022-09-21 19:39:50,106 - INFO - infer - Inference on model: weights/yolov5s.pt Input type image completed
+2022-09-21 19:40:11,493 - INFO - infer - Inferring on model: weights/yolov5s.pt Input type image
+2022-09-21 19:40:12,394 - INFO - infer - Inference on model: weights/yolov5s.pt Input type image completed
+2022-09-21 19:40:29,444 - INFO - infer - Inferring on model: weights/yolov5s.pt Input type video
+2022-09-21 19:41:17,131 - INFO - infer - Inference on model: weights/yolov5s.pt Input type video completed
+2022-09-21 19:50:14,927 - INFO - infer - Inferring on model: weights/yolov5s.pt Input type video
+2022-09-21 19:51:03,575 - INFO - infer - Inference on model: weights/yolov5s.pt Input type video completed
+2022-09-21 19:53:33,243 - INFO - infer - Inferring on model: weights/yolov5s.pt Input type video
+2022-09-21 19:54:21,665 - INFO - infer - Inference on model: weights/yolov5s.pt Input type video completed
